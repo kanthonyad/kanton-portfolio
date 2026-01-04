@@ -71,10 +71,10 @@ const PROJECTS = [
     gallery: [
       "https://res.cloudinary.com/drmuuarxv/video/upload/v1767067594/TSA_LIKESHARE_30_ndki1p.mp4"
     ],
-    strategy: "Capturing the energy of extreme sports through vibrant, fluid visual metaphors that resonate with Gen-Z audiences.",
-    results: "Global toolkit adopted by 14 international markets. Average engagement time increased by 20s.",
+    strategy: "No matter the reason for donating or shopping at a thrift store — from altruistic to silly — you’re amplifying the good when you do it at The Salvation Army Thrift Store.",
+    results: "The films draw viewers in with light humor before grounding them with raw drama and emotional stakes.",
     credits: "AD: Kyle Anthony / CW: Deidre Lichty / Director: Marek Partys / Production: Spark & Riot",
-    tags: []
+    tags: ["AdAge", "LBB", "Ads of the World"]
   },
   {
     id: 4,
