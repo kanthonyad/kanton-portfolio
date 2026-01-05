@@ -132,10 +132,10 @@ const MARQUEE_IMAGES = [
   "./images/Marquee2.png",
   "./images/Marquee3.png",
   "./images/Marquee4.png",
-  "https://images.unsplash.com/photo-1558591710-4b4a1ae0f04d?auto=format&fit=crop&q=80&w=600",
-  "https://images.unsplash.com/photo-1614613535308-eb5fbd3d2c17?auto=format&fit=crop&q=80&w=600",
-  "https://images.unsplash.com/photo-1493225255756-d9584f8606e9?auto=format&fit=crop&get=crop&q=80&w=600",
-  "https://images.unsplash.com/photo-1620641788421-7a1c342ea42e?auto=format&fit=crop&q=80&w=600",
+  "./images/Marquee5.png",
+  "./images/Marquee6.png",
+  "./images/Marquee7.png",
+  "./images/Marquee1.png",
 ];
 
 // --- Sub-components ---
@@ -492,7 +492,7 @@ export default function App() {
         </div>
       </section>
 
-      {/* About Section
+      {/* About Section */}
       <section id="about" className="py-32 px-6 md:px-12 relative overflow-hidden">
         <div className="absolute top-0 right-0 w-1/2 h-full bg-[#1E293B]/30 -skew-x-12 translate-x-1/2" />
         
@@ -500,7 +500,7 @@ export default function App() {
           <div className="grid grid-cols-1 md:grid-cols-12 gap-12">
             <div className="md:col-span-4">
               <div className="sticky top-32">
-                <span className="font-mono text-[#22D3EE] text-xs uppercase tracking-widest block mb-4">The Person</span>
+                <span className="font-mono text-[#22D3EE] text-xs uppercase tracking-widest block mb-4">The Headshot</span>
                 <div className="aspect-square bg-slate-800 rounded-2xl overflow-hidden mb-6 border border-white/10 flex items-center justify-center text-slate-500">
                   <img 
                     src="./images/Profile.png" 
@@ -512,17 +512,17 @@ export default function App() {
             </div>
             
             <div className="md:col-span-8 space-y-8">
-              <h3 className="text-4xl md:text-6xl font-normal tracking-tighter leading-[0.9]">
+             {/*  <h3 className="text-4xl md:text-6xl font-normal tracking-tighter leading-[0.9]">
                 I make<span className="text-slate-500 font-normal"> (pretty good)</span> things.
-              </h3>
+              </h3> */}
               <p className="text-1xl md:text-2xl text-slate-300 font-serif leading-relaxed">
-                I am an Alaskan living in Missouri in the city of Kansas.
+                Kyle Anthony is an Alaskan educated in Colorado living in Missouri in the city of Kansas.
               </p>
             </div>
           </div>
         </div>
       </section>
-      */}
+      
 
       {/* Contact Section */}
       <section id="contact" className="py-32 px-6 md:px-12 bg-[#22D3EE] text-[#0F172A]">
