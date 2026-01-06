@@ -592,7 +592,7 @@ export default function App() {
                   >
                     {formStatus === 'sending' ? 'Transmitting...' : (
                       <>
-                        Initiate Contact
+                         Contact
                         <ChevronRight size={18} />
                       </>
                     )}
