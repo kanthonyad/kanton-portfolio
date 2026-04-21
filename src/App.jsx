@@ -93,6 +93,22 @@ const PROJECTS = [
   },
   {
     id: 5,
+    title: "The Thrift That Got Away",
+    client: "The Salvation Army",
+    category: "Creative Data",
+    heroImage: "./images/TTTGA.gif",
+    primaryMedia: "https://res.cloudinary.com/drmuuarxv/video/upload/v1776790558/TTTGA_CaseFilm_pccn8e.mp4",
+    gallery: [
+      "./images/TTTGA_1.png",
+      "./images/TTTGA_2.png"
+    ],
+    strategy: "The Salvation Army Thrift Stores needed to show prospective shoppers that they have the goods, but due to the constantly changing inventory, there was no scalable process to advertise individual items before they were sold. We turned real-time sales data and lo-fi warehouse images into editorial fashion-style ads and served them local markets where the items had just sold, creating a powerful sense of FOMO.",
+    results: "82% Lower Conversion Cost. Beat monthly sales record by 10%",
+    credits: "AD: Kyle Anthony / CW: Deidre Lichty / AI Partner: Google Lighthouse",
+    tags: ["One Show Merit"]
+  },
+  {
+    id: 6,
     title: "The 3-Pete",
     client: "Kansas City Chiefs",
     category: "Fan Engagement",
@@ -108,7 +124,7 @@ const PROJECTS = [
     tags: ["Clio Silver"]
   },
   {
-    id: 6,
+    id: 7,
     title: "Mission Mixtape",
     client: "Dairy Queen",
     category: "Social Activation",
@@ -124,7 +140,7 @@ const PROJECTS = [
     tags: []
   },
   {
-    id: 7,
+    id: 8,
     title: "1, 2, 3, Floor",
     client: "LL Flooring",
     category: "Video",
@@ -148,7 +164,6 @@ const MARQUEE_IMAGES = [
   "./images/Marquee5.png",
   "./images/Marquee6.png",
   "./images/Marquee7.png",
-  "./images/Marquee1.png",
 ];
 
 // --- Sub-components ---
@@ -414,7 +429,7 @@ export default function App() {
 
         <div className="relative z-10 max-w-6xl w-full text-center md:text-left">
           <p className="font-mono text-[#22D3EE] text-sm uppercase tracking-[0.3em] mb-8 animate-in fade-in slide-in-from-bottom duration-700">
-            Portfolio Vol. 20
+            Portfolio Vol. 21
           </p>
           <h2 className="text-4xl md:text-6xl lg:text-7xl font-normal leading-[1.1] text-white tracking-tight animate-in fade-in slide-in-from-bottom duration-1000 delay-150">
             Kyle Anthony is a <span className="text-[#A855F7]"> pretty good art director </span>and also <span className="text-[#22D3EE]">pretty good at writing</span> and also <span className="text-[#A855F7]">pretty humble,</span> too.
@@ -443,7 +458,7 @@ export default function App() {
           <div className="flex flex-col md:flex-row justify-between items-baseline mb-16 gap-4">
             <h3 className="text-4xl md:text-6xl font-normal tracking-tighter leading-[0.9]">Selected Work.</h3>
             <span className="font-mono text-xs uppercase tracking-widest border-b border-[#0F172A] pb-1">
-              (2022 — 2024)
+              (2022 — 2026)
             </span>
           </div>
 
