@@ -123,7 +123,37 @@ const PROJECTS = [
     credits: "AD: Kyle Anthony / CW: Deidre Lichty / Director: Parker Seaman / Production: Lord Danger",
     tags: ["Clio Silver"]
   },
-
+  {
+    id: 7,
+    title: "Mission Mixtape",
+    client: "Dairy Queen",
+    category: "Social Activation",
+    heroImage: "./images/DQ_MISSION_MIXTAPE.gif",
+    primaryMedia: "https://res.cloudinary.com/drmuuarxv/video/upload/v1767149357/DQ_MISSIONMIXTAPE_rfyf4m.mp4",
+    gallery: [
+      "./images/MissionMixTape.jpg",
+      "./images/GOTG_PressOneSheet_Walkman.png"
+    ],
+    strategy: "When DQ teamed up with Marvel's Guardians of the Galaxy Vol. 2, we teamed up with some nostalgic technology to create the #MissionMixtape sweepstakes. Fans had a chance to claim one of 1,000 exclusive mixtapes inspired by the movie's “Awesome Mix”. Then they faced the real challenge: finding a cassette player to listen to the mixtape to win prizes ranging from DQ gift cards to signed movie posters.",
+    results: "1,000 mixtapes sold out in 3 minutes. 39 million impressions. 9 million Blizzards sold. 1 galaxy guarded.",
+    credits: "AD: Kyle Anthony / CW: Joe DeSalvo / Design: Jen Beck / Music: Primary Colors",
+    tags: []
+  },
+  {
+    id: 8,
+    title: "1, 2, 3, Floor",
+    client: "LL Flooring",
+    category: "Video",
+    heroImage: "./images/LLFlooring.gif",
+    primaryMedia: "https://res.cloudinary.com/drmuuarxv/video/upload/v1767053248/LLFLOORINGNOWWHAT_30_wdc1h3.mp4",
+    gallery: [
+      "https://res.cloudinary.com/drmuuarxv/video/upload/v1767053370/LLFLOORING123FLOOR_30_q8sgjo.mp4"
+    ],
+    strategy: "LL Flooring wanted to be known for their flooring expertise and specialized customer service.",
+    results: "We made up these spots and their new customer journey we called 1,2,3, Floor.",
+    credits: "AD: Kyle Anthony / CW: Deidre Lichty / Director: Adam Patch / Production: Stept",
+    tags: []
+  },
 ];
 
 const MARQUEE_IMAGES = [
