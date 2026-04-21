@@ -48,21 +48,36 @@ const PROJECTS = [
   },
   {
     id: 2,
-    title: "1, 2, 3, Floor",
-    client: "LL Flooring",
-    category: "Video",
-    heroImage: "./images/LLFlooring.gif",
-    primaryMedia: "https://res.cloudinary.com/drmuuarxv/video/upload/v1767053248/LLFLOORINGNOWWHAT_30_wdc1h3.mp4",
+    title: "Unfinished Legacies",
+    client: "Kansas City",
+    category: "Social Influencer",
+    heroImage: "./images/UL.gif",
+    primaryMedia: "https://res.cloudinary.com/drmuuarxv/video/upload/v1776790990/2_UNFINISHED_LEGACIES_CaseFilm_ddfxud.mp4",
     gallery: [
-      "https://res.cloudinary.com/drmuuarxv/video/upload/v1767053370/LLFLOORING123FLOOR_30_q8sgjo.mp4"
+      "./images/UL_1.png",
+      "./images/UL_2.png",
+      "https://res.cloudinary.com/drmuuarxv/video/upload/v1767200199/UL_JORDAN_wylyej.mp4"
     ],
-    strategy: "LL Flooring wanted to be known for their flooring expertise and specialized customer service.",
-    results: "We made up these spots and their new customer journey we called 1,2,3, Floor.",
-    credits: "AD: Kyle Anthony / CW: Deidre Lichty / Director: Adam Patch / Production: Stept",
-    tags: []
+    strategy: "In 2023 the Kansas City metro was in the middle of a fentanyl crisis, with overdose deaths climbing 1200% since 2019. The mayor asked us to create a campaign that would break through to the most at risk population – men aged18-29 who thought that the fentanyl crisis couldn't reach them. So we created an influencer campaign featuring peers who have personal experience from an accidental lethal fentanyl overdose.",
+    results: "15.1 million earned impressions. A 34% drop in fentanyl deaths city-wide.",
+    credits: "AD: Kyle Anthony / CW: Deidre Lichty / Director: Brady Cackler / Production: Barkley Films",
+    tags: ["One Show Merit"]
   },
   {
     id: 3,
+    title: "Thrift Score",
+    client: "The Salvation Army",
+    category: "Gaming",
+    heroImage: "./images/THRIFT_SCORE_1.gif",
+    primaryMedia: "https://res.cloudinary.com/drmuuarxv/video/upload/v1776790605/TSA_ThriftScore_SM_uuljm5.mp4",
+    gallery: [],
+    strategy: "Even though thrifting culture is booming with Gen Z, they're simply not shopping at The Salvation Army. So we developed a whole new kind of thrift store, and opened it on Roblox — creating the world's first marketplace to buy and donate secondhand digital clothes.",
+    results: "700K daily store visits. 43% more playing time vs. average Roblox game.",
+    credits: "AD: Kyle Anthony / CW: Deidre Lichty / Development: The Gang",
+    tags: []
+  },
+  {
+    id: 4,
     title: "Any Reason Is A Good Reason",
     client: "The Salvation Army",
     category: "Video",
@@ -77,7 +92,7 @@ const PROJECTS = [
     tags: ["AdAge", "LBB", "Ads of the World"]
   },
   {
-    id: 4,
+    id: 5,
     title: "The 3-Pete",
     client: "Kansas City Chiefs",
     category: "Fan Engagement",
@@ -93,7 +108,7 @@ const PROJECTS = [
     tags: ["Clio Silver"]
   },
   {
-    id: 5,
+    id: 6,
     title: "Mission Mixtape",
     client: "Dairy Queen",
     category: "Social Activation",
@@ -108,21 +123,19 @@ const PROJECTS = [
     credits: "AD: Kyle Anthony / CW: Joe DeSalvo / Design: Jen Beck / Music: Primary Colors",
     tags: []
   },
-{
-    id: 6,
-    title: "Unfinished Legacies",
-    client: "Kansas City",
-    category: "Social Influencer",
-    heroImage: "./images/UL.gif",
-    primaryMedia: "https://res.cloudinary.com/drmuuarxv/video/upload/v1767200184/UNFINISHED_LEGACIES_pdkl5c.mp4",
+  {
+    id: 7,
+    title: "1, 2, 3, Floor",
+    client: "LL Flooring",
+    category: "Video",
+    heroImage: "./images/LLFlooring.gif",
+    primaryMedia: "https://res.cloudinary.com/drmuuarxv/video/upload/v1767053248/LLFLOORINGNOWWHAT_30_wdc1h3.mp4",
     gallery: [
-      "./images/UL_1.png",
-      "./images/UL_2.png",
-      "https://res.cloudinary.com/drmuuarxv/video/upload/v1767200199/UL_JORDAN_wylyej.mp4"
+      "https://res.cloudinary.com/drmuuarxv/video/upload/v1767053370/LLFLOORING123FLOOR_30_q8sgjo.mp4"
     ],
-    strategy: "In 2023 the Kansas City metro was in the middle of a fentanyl crisis, with overdose deaths climbing 1200% since 2019. The mayor asked us to create a campaign that would break through to the most at risk population – men aged18-29 who thought that the fentanyl crisis couldn't reach them. So we created an influencer campaign featuring peers who have personal experience from an accidental lethal fentanyl overdose.",
-    results: "15 million earned impressions. A drop in fentanyl deaths city-wide",
-    credits: "AD: Kyle Anthony / CW: Deidre Lichty / Director: Brady Cackler / Production: Barkley Films",
+    strategy: "LL Flooring wanted to be known for their flooring expertise and specialized customer service.",
+    results: "We made up these spots and their new customer journey we called 1,2,3, Floor.",
+    credits: "AD: Kyle Anthony / CW: Deidre Lichty / Director: Adam Patch / Production: Stept",
     tags: []
   },
 ];
