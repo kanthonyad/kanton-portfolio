@@ -44,7 +44,7 @@ const PROJECTS = [
     strategy: "The Kansas City Chiefs wanted to turn casual fans to lifelong fans. We made a spoof trailer for a Hallmark made for TV movie. Then things got our of control.",
     results: "10.2B Organic Impressions. Then, our trailer turned into the most watched cable movie of the year.",
     credits: "AD: Kyle Anthony / CW: Deidre Lichty / Director: Parker Seaman / Production: Lord Danger",
-    tags: ["3x Clio", "Cannes Lions Shortlist"]
+    tags: ["3x Clio", "Cannes Lion Shortlist"]
   },
   {
     id: 2,
@@ -61,7 +61,7 @@ const PROJECTS = [
     strategy: "In 2023 the Kansas City metro was in the middle of a fentanyl crisis, with overdose deaths climbing 1200% since 2019. The mayor asked us to create a campaign that would break through to the most at risk population – men aged18-29 who thought that the fentanyl crisis couldn't reach them. So we created an influencer campaign featuring peers who have personal experience from an accidental lethal fentanyl overdose.",
     results: "15.1 million earned impressions. A 34% drop in fentanyl deaths city-wide.",
     credits: "AD: Kyle Anthony / CW: Deidre Lichty / Director: Brady Cackler / Production: Barkley Films",
-    tags: ["One Show Merit"]
+    tags: ["One Show Merit", "D&AD Wood Pencil", "2x Cannes Lion Shortlist"]
   },
   {
     id: 3,
@@ -74,7 +74,7 @@ const PROJECTS = [
     strategy: "Even though thrifting culture is booming with Gen Z, they're simply not shopping at The Salvation Army. So we developed a whole new kind of thrift store, and opened it on Roblox — creating the world's first marketplace to buy and donate secondhand digital clothes.",
     results: "700K daily store visits. 43% more playing time vs. average Roblox game.",
     credits: "AD: Kyle Anthony / CW: Deidre Lichty / Development: The Gang",
-    tags: []
+    tags: ["D&AD Wood Pencil"]
   },
   {
     id: 4,
